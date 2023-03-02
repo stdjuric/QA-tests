@@ -1,2 +1,2 @@
 # QA-tests
-Just a list of my test cases.
+Just a list of my manual test cases.
